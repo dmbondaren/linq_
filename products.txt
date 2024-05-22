@@ -1,0 +1,12 @@
+Laptop,Electronics,1000,10
+Laptop,Electronics,1000,10
+Laptop,Electronics,1000,10
+Refrigerator,Appliances,800,5
+Refrigerator,Appliances,800,5
+Refrigerator,Appliances,800,5
+Novel,Books,20,15
+Novel,Books,20,15
+Novel,Books,20,15
+T-Shirt,Clothing,15,50
+T-Shirt,Clothing,15,50
+T-Shirt,Clothing,15,50
